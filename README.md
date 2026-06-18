@@ -60,3 +60,6 @@ Briefly explain what you corrected and how you moved the correction from staging
 *I have corrected the error in the correction endpoint by changing the res.sen to res.send.*
 *I have moved the correction from staging to production by pushing the changes to the main branch and merge the staging to the main branch.*
 *I have also updated the README.md file to include the correct URLs and expected results.*
+
+what is the other way you could have detected there were an error in the code without testing the API endpoints?
+*the other way to detect without test the api is to check the logs in the render dashboard*
