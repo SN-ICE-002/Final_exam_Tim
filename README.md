@@ -6,7 +6,7 @@
 
 **GitHub repository URL:** * https://github.com/SN-ICE-002/Final_exam_Tim.git *
 
-**Render application URL:** *PASTE YOUR RENDER URL HERE*
+**Render application URL:** * https://final-exam-tim.onrender.com *
 
 ---
 
@@ -38,17 +38,17 @@
 
 ### Presentation endpoint
 
-**URL:** *PASTE YOUR RENDER URL HERE/presentation*
+**URL:** * https://final-exam-tim.onrender.com/presentation *
 
-**Expected result:** *Result of the call*
+**Expected result:** *Final Exam - Production*
 
 ### Correction endpoint
 
-**URL:** *PASTE YOUR RENDER URL HERE/correction*
+**URL:** * https://final-exam-tim.onrender.com/correction *
 
-**Error after first call:** *Put the result of the first call*
+**Error after first call:** *Correction endpoint is working*
 
-**Expected result after correction:** *Put the result of the call after the correction*
+**Expected result after correction:** *Correction endpoint is working*
 
 ---
 
@@ -57,4 +57,6 @@
 Briefly explain what you corrected and how you moved the correction from staging to production.
 
 **Explanation:**  
-*WRITE YOUR EXPLANATION HERE*
+*I have corrected the error in the correction endpoint by changing the res.sen to res.send.*
+*I have moved the correction from staging to production by pushing the changes to the main branch and merge the staging to the main branch.*
+*I have also updated the README.md file to include the correct URLs and expected results.*
