@@ -14,7 +14,7 @@
 
 **Application name:** *Final Exam - TIM ROGER*
 
-**Render project name:** *Final Exam - TIM ROGER*
+**Render project name:** *Final Exam - TIM *
 
 **Branch used for production deployment:** **main**
 
